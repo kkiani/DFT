@@ -11,7 +11,7 @@ In fact FFT is fast way to calculate DFT (Discrete Fourier Transform) .  both he
 2. Install mathplotlib using pip:
 `sudo pip install mathplotlib`
 3. Download whole project and extract in one folder.
-4. Execute main.py file.
+4. Execute DFT.py file.
 
 ## License
 The MIT License (MIT)
